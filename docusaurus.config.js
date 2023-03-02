@@ -41,13 +41,13 @@ const config = {
           sidebarPath: require.resolve("./sidebars.js"),
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl: "https://github.com/kobakoo/ScratchFD/",
+          editUrl: "https://github.com/kobakoo/ScratchFD/blob/main/",
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl: "https://github.com/kobakoo/ScratchFD/blog/",
+          editUrl: "https://github.com/kobakoo/ScratchFD/",
         },
         theme: {
           customCss: require.resolve("./src/css/custom.css"),
